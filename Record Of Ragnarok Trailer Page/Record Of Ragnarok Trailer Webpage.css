@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(205, 209, 187);
+    padding-bottom: 5px;
+}
+
+div {
+    background-color: rgba(5, 91, 117, 0.692);
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+
+.title {
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(180deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.dropbox1 {
+    color: white;
+}
